@@ -1,41 +1,42 @@
 # 👋 Hi, I'm Mohamed Elmahdi
 
 💻 Full Stack Web Developer  
-🌍 Based in Morocco  
-🎓 Graduate in Digital Development (OFPPT)
+🌍 Morocco  
+🎓 Digital Development Graduate (OFPPT)  
 
 ---
 
 ## 🚀 About Me
 
-- Passionate about building modern web applications  
-- Skilled in HTML, CSS, JavaScript, React, Laravel  
-- Always learning and improving my skills  
+- Passionate about building modern, responsive web applications  
+- Focused on clean code, performance, and user experience  
+- Always learning new technologies and improving my skills  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: PHP, Laravel  
-- Database: MySQL  
-- Tools: Git, GitHub  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** PHP, Laravel  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Project
 
-🔹 To-Do App  
-👉 Simple task manager with localStorage  
-🔗 Live: https://amazing-gingersnap-453090.netlify.app
-🔗 Code: https://github.com/mohamed-dev-web/todo-app  
+🔹 **To-Do App**  
+A simple and responsive task manager with add, edit, delete, and localStorage functionality.  
+
+🌐 Live Demo: https://amazing-gingersnap-453090.netlify.app  
+💻 Source Code: https://github.com/mohamed-dev-web/todo-app  
 
 ---
 
 ## 📫 Contact
 
-- Email: mohamedelmahdi318@gmail.com  
-- Location: Ouarzazate, Morocco  
+📧 Email: mohamedelmahdi318@gmail.com  
+📍 Ouarzazate, Morocco  
 
 ---
 
