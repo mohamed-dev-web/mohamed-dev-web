@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I am a passionate web developer focused on building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into real projects and continuously improving my skills through practice and new challenges.
+- Passionate about building modern, responsive web applications  
+- Focused on clean code, performance, and user experience  
+- Always learning new technologies and improving my skills  
 
 ---
 
@@ -26,18 +26,10 @@ I enjoy turning ideas into real projects and continuously improving my skills th
 ## 📂 Featured Project
 
 🔹 **To-Do App**  
-A responsive task management application with full CRUD operations and localStorage support.
+A simple and responsive task manager with add, edit, delete, and localStorage functionality.  
 
 🌐 Live Demo: https://amazing-gingersnap-453090.netlify.app  
 💻 Source Code: https://github.com/mohamed-dev-web/todo-app  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-dev-web&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dev-web&layout=compact&theme=radical)
 
 ---
 
