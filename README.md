@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Elmahdi
 
-<!--
-**mohamed-dev-web/mohamed-dev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer  
+🌍 Based in Morocco  
+🎓 Graduate in Digital Development (OFPPT)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about building modern web applications  
+- Skilled in HTML, CSS, JavaScript, React, Laravel  
+- Always learning and improving my skills  
+
+---
+
+## 🛠️ Skills
+
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: PHP, Laravel  
+- Database: MySQL  
+- Tools: Git, GitHub  
+
+---
+
+## 📂 Projects
+
+🔹 To-Do App  
+👉 Simple task manager with localStorage  
+🔗 Live: https://amazing-gingersnap-453090.netlify.app
+🔗 Code: https://github.com/mohamed-dev-web/todo-app  
+
+---
+
+## 📫 Contact
+
+- Email: mohamedelmahdi318@gmail.com  
+- Location: Ouarzazate, Morocco  
+
+---
+
+⭐ Thanks for visiting my profile!
