@@ -31,6 +31,13 @@ A simple and responsive task manager with add, edit, delete, and localStorage fu
 🌐 Live Demo: https://amazing-gingersnap-453090.netlify.app  
 💻 Source Code: https://github.com/mohamed-dev-web/todo-app  
 
+
+🔹 **Restaurant Website**  
+Restaurant Website A modern, responsive restaurant website with a stylish design, menu display, and easy navigation for a smooth user experience.  
+
+🌐 Live Demo: https://bitebliss-ui.netlify.app
+💻 Source Code: https://github.com/mohamed-dev-web/restaurant-landing-page
+
 ---
 
 ## 📫 Contact
